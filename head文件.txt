@@ -1,0 +1,8 @@
+模拟head的三种方式:
+    - soft
+    - mix
+    - hard
+
+
+soft:
+    我的修改内容是: 1
